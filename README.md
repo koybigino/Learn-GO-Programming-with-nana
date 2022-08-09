@@ -15,7 +15,17 @@
 - Formatting Output
     00:30:41 -> 00:33:40
 - Data Type
-    00:33:45 -> 00:33:40
+    00:33:45 -> 00:45:10
+- Getting User Input
+    00:45:20 -> 00:53:50
+- Book Ticket Logic
+    00:53:57 -> 00:57:10
+- Arrays & Slices
+    00:57:19 -> 01:11:10
+- Loops
+    01:11:12 -> 01:24:20
+- if and switch
+    01:24:28 -> 01:
 
 
     
